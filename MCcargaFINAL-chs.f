@@ -9,9 +9,9 @@
 !                                                                      C
 !           Relajacion por el metodo de MonteCarlo                     C
 !                                                                      C
-!   Authors:   Cayetano Hernández Sánchez                              C
+!   Authors:   C. Hernández, A.M. Somoza & M. Ortuno                   C
 !                                                                      C
-!   Version:   08.03.13                                                C
+!   Version:   18.06.24                                                C
 !                                                                      C
 !CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC
 !
